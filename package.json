@@ -3,12 +3,18 @@
   "version": "9.9.9",
   "description": "this sucks",
   "main": "server.js",
-  "author": {
-    "name": "Robert Reynolds",
-    "email": "RobertReynolds@black.ca"
+  "scripts": {
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.11.1",
     "object-to-xml": "0.0.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathantyng/twilio-server"
   }
 }
