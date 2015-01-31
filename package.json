@@ -2,7 +2,7 @@
   "name": "twilio-server",
   "version": "9.9.9",
   "description": "this sucks",
-  "main": "twilio-server.js",
+  "main": "server.js",
   "author": {
     "name": "Robert Reynolds",
     "email": "RobertReynolds@black.ca"
