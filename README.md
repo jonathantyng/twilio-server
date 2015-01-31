@@ -1,2 +1,0 @@
-# twilio-server
-UofT Hacks
